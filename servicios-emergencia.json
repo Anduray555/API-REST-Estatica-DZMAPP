@@ -1,0 +1,86 @@
+[
+  {
+    "idServicio": 1,
+    "nombre": "Policía Nacional Civil - Centro",
+    "telefono": "911",
+    "tipoServicio": "POLICIA",
+    "departamento": "San Salvador",
+    "municipio": "San Salvador",
+    "direccion": "Centro de San Salvador",
+    "latitud": 13.6972,
+    "longitud": -89.1919,
+    "activo": true
+  },
+  {
+    "idServicio": 2,
+    "nombre": "Cuerpo de Bomberos - Santa Tecla",
+    "telefono": "913",
+    "tipoServicio": "BOMBEROS",
+    "departamento": "La Libertad",
+    "municipio": "Santa Tecla",
+    "direccion": "Avenida San Martín, Santa Tecla",
+    "latitud": 13.6748,
+    "longitud": -89.2811,
+    "activo": true
+  },
+  {
+    "idServicio": 3,
+    "nombre": "Protección Civil - Apopa",
+    "telefono": "2286-3400",
+    "tipoServicio": "PROTECCION_CIVIL",
+    "departamento": "San Salvador",
+    "municipio": "Apopa",
+    "direccion": "Alcaldía Municipal de Apopa",
+    "latitud": 13.8072,
+    "longitud": -89.1790,
+    "activo": true
+  },
+  {
+    "idServicio": 4,
+    "nombre": "Unidad de Salud - Mejicanos",
+    "telefono": "2232-5400",
+    "tipoServicio": "UNIDAD_SALUD",
+    "departamento": "San Salvador",
+    "municipio": "Mejicanos",
+    "direccion": "Colonia Zacamil, Mejicanos",
+    "latitud": 13.7334,
+    "longitud": -89.2126,
+    "activo": true
+  },
+  {
+    "idServicio": 5,
+    "nombre": "Cruz Roja Salvadoreña - San Salvador",
+    "telefono": "2222-5155",
+    "tipoServicio": "CRUZ_ROJA",
+    "departamento": "San Salvador",
+    "municipio": "San Salvador",
+    "direccion": "17 Av. Norte y Alameda Juan Pablo II",
+    "latitud": 13.7036,
+    "longitud": -89.2038,
+    "activo": true
+  },
+  {
+    "idServicio": 6,
+    "nombre": "Hospital Nacional San Rafael",
+    "telefono": "2594-4000",
+    "tipoServicio": "HOSPITAL",
+    "departamento": "La Libertad",
+    "municipio": "Santa Tecla",
+    "direccion": "Final 4a Calle Oriente, Santa Tecla",
+    "latitud": 13.6762,
+    "longitud": -89.2734,
+    "activo": true
+  },
+  {
+    "idServicio": 7,
+    "nombre": "Alcaldía Municipal - Ilopango",
+    "telefono": "2295-7000",
+    "tipoServicio": "ALCALDIA",
+    "departamento": "San Salvador",
+    "municipio": "Ilopango",
+    "direccion": "Boulevard del Ejército, Ilopango",
+    "latitud": 13.7018,
+    "longitud": -89.1051,
+    "activo": true
+  }
+]
