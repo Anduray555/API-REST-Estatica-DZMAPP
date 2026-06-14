@@ -102,18 +102,5 @@
     "radioMetros": 280,
     "nivelRiesgo": "MEDIO",
     "activa": true
-  },
-  {
-  "idZona": 99,
-  "nombre": "Zona de prueba cercana",
-  "descripcion": "Zona temporal para probar alerta por ubicación real",
-  "departamento": "San Salvador",
-  "municipio": "San Salvador",
-  "categoria": "ROBO",
-  "latitud": 13.682645,
-  "longitud": -89.125104,
-  "radioMetros": 1000,
-  "nivelRiesgo": "ALTO",
-  "activa": true
-}
+  }
 ]
